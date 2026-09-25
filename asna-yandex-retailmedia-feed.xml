@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-09-25T12:00:00+03:00">
+  <shop>
+    <name>Аптека АСНА</name>
+    <company>Аптека АСНА</company>
+    <url>https://asna.ru/</url>
+    <categories>
+      <category id="1">Тестовые товары</category>
+    </categories>
+    <offers>
+      <offer id="yandex-asna-test-001" available="true">
+        <url>https://asna.ru/</url>
+        <picture>https://placehold.co/300x250/png?text=YANDEX</picture>
+        <categoryId>1</categoryId>
+        <vendor>Яндекс</vendor>
+        <name>Тестовый товар Яндекс</name>
+        <description>Тестовый товар для проверки продвижения бренда Яндекс</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
