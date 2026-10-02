@@ -8,6 +8,7 @@
     <categories>
       <category id="1">Авиабилеты</category>
       <category id="2">Отели</category>
+      <category id="3">Туризм</category>
     </categories>
 
     <offers>
@@ -26,6 +27,14 @@
         <vendor>Чайка отель</vendor>
         <name>Отель Чайка</name>
         <description>Отель «Чайка» в Лазаревском</description>
+      </offer>
+      <offer id="abu-dhabi-001" available="true">
+        <url>https://visitabudhabi.ae/</url>
+        <picture>https://visitabudhabi.ae/-/media/project/vad/landing-page-mfd/hero-banner/box-1/sheikh-zayed-grand-mosque.jpg?rev=200787ac808f486d90fbca63ee622433</picture>
+        <categoryId>3</categoryId>
+        <vendor>Department of Culture and Tourism - Abu Dhabi</vendor>
+        <name>Откройте для себя Абу-Даби</name>
+        <description>Пляжный отдых, знаменитые музеи и достопримечательности Абу-Даби. Вдохновляйтесь и планируйте путешествие с Department of Culture and Tourism - Abu Dhabi.</description>
       </offer>
     </offers>
   </shop>
