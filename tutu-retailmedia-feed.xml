@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-02T12:00:00+03:00">
+  <shop>
+    <name>Туту</name>
+    <company>Туту — сервис путешествий</company>
+    <url>https://www.tutu.ru/</url>
+
+    <categories>
+      <category id="1">Путешествия</category>
+    </categories>
+
+    <offers>
+      <offer id="tutu-test-001" available="true">
+        <url>https://www.tutu.ru/</url>
+        <picture>https://cdn1.tu-tu.ru/images2/logo/og_2023.png</picture>
+        <categoryId>1</categoryId>
+        <vendor>Тестовый вендор X</vendor>
+        <name>Путешествуйте с Туту</name>
+        <description>Билеты на поезда, самолёты и автобусы, отели и идеи для путешествий на Туту.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
