@@ -11,7 +11,7 @@
 
     <offers>
       <offer id="emex-test-001" available="true">
-        <url>hhttps://emex.ru/</url>
+        <url>https://emex.ru/</url>
         <categoryId>1</categoryId>
         <vendor>ПАО Сбербанк</vendor>
         <name>emex</name>
