@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-02T12:00:00+03:00">
+  <shop>
+    <name>emex</name>
+    <company>Автозапчасти вовремя</company>
+    <url>http://emex.ru</url>
+
+    <categories>
+      <category id="1">Путешествия</category>
+    </categories>
+
+    <offers>
+      <offer id="emex-test-001" available="true">
+        <url>hhttps://emex.ru/</url>
+        <categoryId>1</categoryId>
+        <vendor>ПАО Сбербанк</vendor>
+        <name>emex</name>
+        <description>Автозапчасти вовремя</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
