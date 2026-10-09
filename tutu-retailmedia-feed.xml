@@ -18,6 +18,14 @@
         <name>Путешествуйте с Туту</name>
         <description>Билеты на поезда, самолёты и автобусы, отели и идеи для путешествий на Туту.</description>
       </offer>
+       <offer id="tutu-test-002" available="true">
+        <url>https://www.tutu.ru/</url>
+        <picture>https://cdn1.tu-tu.ru/images2/logo/og_2023.png</picture>
+        <categoryId>1</categoryId>
+        <vendor>Старый Мельник</vendor>
+        <name>Путешествуйте с Туту</name>
+        <description>Билеты на поезда, самолёты и автобусы, отели и идеи для путешествий на Туту.</description>
+      </offer>
     </offers>
   </shop>
 </yml_catalog>
