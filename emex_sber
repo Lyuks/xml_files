@@ -17,6 +17,21 @@
         <name>emex</name>
         <description>Автозапчасти вовремя</description>
       </offer>
+
+      <offer id="emex-test-002" available="true">
+        <url>https://www.sberleasing.ru/</url>
+        <categoryId>1</categoryId>
+        <vendor>Сбербанк Лизинг</vendor>
+        <name>Лизинг автомобилей</name>
+        <description>Автомобили и коммерческий транспорт в лизинг для бизнеса.</description>
+      </offer>
+      <offer id="emex-test-003" available="true">
+        <url>https://sberbankins.ru/</url>
+        <categoryId>1</categoryId>
+        <vendor>СберСтрахование</vendor>
+        <name>Страхование автомобиля</name>
+        <description>Страхование автомобиля для защиты в дороге.</description>
+      </offer>
     </offers>
   </shop>
 </yml_catalog>
